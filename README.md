@@ -5,7 +5,8 @@
 ## Front End Web Developer
 
 - 🌱 I’m currently learning react/next.js
-- 👯 I’m looking to collaborate with other content creators
+- 🥅 My goal for this year is to do some freelancing job and after that land a developer job
+- 💻 If you want to hire me you can do it on my portfolio website or via upwork
 - 🚴‍♀️ I am big fan of cycling and one of my goals this year is to cycle 200km 🚲
 
 ### Hire me on Upwork:
