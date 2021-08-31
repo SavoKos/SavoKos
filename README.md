@@ -1,6 +1,6 @@
 ### Hi there, I am Savo Kos 👋
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=savokos.com&style=for-the-badge&up_color=success&up_message=UP&url=https%3A%2F%2Fsavokos.com%2F)](https://savokos.com)
+[![Website](https://img.shields.io/website?label=savokos.com&style=for-the-badge&url=https%3A%2F%2Fsavokos.com)](https://savokos.com)
 
 ## Front End Web Developer
 
